@@ -1,0 +1,18 @@
+{
+    "Versions":
+    [
+        {
+            "Version": 1.101,
+            "Files": [
+                {
+                    "FileName": "spells_us.txt",
+                    "Url": ""
+                },
+                {
+                    "FileName": "dbstr_us.txt",
+                    "Url": ""
+                }
+            ]
+        }
+    ]
+}
