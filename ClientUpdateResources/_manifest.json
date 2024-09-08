@@ -1,9 +1,19 @@
 {
-    "Versions":
-    [
+    "Versions": [
         {
             "Version": 1.101,
-            "Files": [ "spells_us.txt", "dbstr_us.txt" ]
+            "Files": [
+                {
+                    "FileName": "spells_us.txt",
+                    "DownloadUrl": "",
+                    "InstallationPath": ""
+                },
+                {
+                    "FileName": "dbstr_us.txt",
+                    "DownloadUrl": "",
+                    "InstallationPath": ""
+                }
+            ]
         }
     ]
 }
